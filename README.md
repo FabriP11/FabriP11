@@ -83,17 +83,6 @@ Asesoramiento y participación en proyectos de innovación y transformación dig
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FabriP11&show_icons=true&theme=dark&hide_border=true&border_radius=10&bg_color=0D1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabriP11&layout=compact&theme=dark&hide_border=true&border_radius=10&bg_color=0D1117)
-
-</div>
-
----
 
 ## 🌱 Objetivos actuales
 
